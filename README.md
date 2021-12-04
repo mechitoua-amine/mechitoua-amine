@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mechitoua Mohammed Amine, a Metallurgical Engineer, self-thought developer.
-<a href="https://app.daily.dev/mehmet_emin"><img src="https://api.daily.dev/devcards/95177fb39c584596905ff01d0bee1590.png?r=8c8" width="400" alt="Mehmet Emin's Dev Card"/></a>
+<a href="https://app.daily.dev/mehmet_emin"><img src="https://github.com/mechitoua-amine/mechitoua-amine/blob/main/devcard.svg" width="400" alt="Mehmet Emin's Dev Card"/></a>
 
 - 🔭 I’m currently working on my personal protfolio
 - 🌱 I’m currently learning Java, spring framework, postgresql, TypeScript, full-stack JavaScript(react, node.js, mongodb/mysql).
